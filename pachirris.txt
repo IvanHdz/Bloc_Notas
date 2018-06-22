@@ -1,0 +1,6 @@
+este es mi nuevo editor de texto de la clase de 
+topicos selectos de programacion.
+
+Esto va a ser parte del proyecto donde
+deben hacer una copia de Word con
+todas sus funciones!!!!!!
